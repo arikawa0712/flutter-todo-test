@@ -1,6 +1,6 @@
 {
-    "name": "udemy_flutter_mid4_todo",
-    "short_name": "udemy_flutter_mid4_todo",
+    "name": "flutter_todo",
+    "short_name": "flutter_todo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
